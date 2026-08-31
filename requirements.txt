@@ -1,0 +1,25 @@
+# Core dependencies for Multimodal Deep Learning for Anaemia Classification
+
+# Deep Learning
+tensorflow>=2.20.0
+keras>=3.0.0
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Image processing
+Pillow>=9.5.0
+
+# Utilities
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# Optional: GPU support (uncomment if using GPU)
+# tensorflow-gpu>=2.20.0
+# cuda-toolkit>=11.8

@@ -1,0 +1,109 @@
+# Data directories
+data/raw/
+data/processed/
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Large dataset files
+*.zip
+*.tar.gz
+*.tar
+*.rar
+
+# CSV and Excel files in root or results
+*.csv
+*.xlsx
+*.xls
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checksum
+.jupyter/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Model weights and checkpoints
+*.h5
+*.ckpt
+*.pb
+checkpoints/
+models/weights/
+*.pth
+*.pkl
+
+# Cache
+.cache/
+*.cache
+
+# OS files
+Thumbs.db
+.DS_Store
+*.bak
+
+# Results and outputs (optional - uncomment to exclude)
+# results/
+# outputs/
+# *.png in results excluded below
+results/figures/*.png
+results/figures/*.jpg
+results/figures/*.jpeg
+
+# Kaggle notebook metadata
+/kaggle/
+
+# Temporary files
+*.tmp
+temp/
+tmp/
