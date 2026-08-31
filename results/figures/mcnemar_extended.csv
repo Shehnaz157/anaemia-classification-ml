@@ -1,0 +1,7 @@
+model_A,model_B,A_only_correct,B_only_correct,p_value,p_holm,significant_holm_0.05
+Clinical: Logistic Regression,Image: ResNet50,29,54,0.008036706377857002,0.024110119133571008,True
+Clinical: Logistic Regression,Fusion: feature-level,11,56,2.1457960315833694e-08,1.2874776189500216e-07,True
+Clinical: Logistic Regression,Fusion: late (stacked),18,51,8.768662462846019e-05,0.00043843312314230094,True
+Image: ResNet50,Fusion: feature-level,4,24,0.00017999112606048584,0.0007199645042419434,True
+Image: ResNet50,Fusion: late (stacked),5,13,0.09625244140625,0.09625244140625,False
+Fusion: feature-level,Fusion: late (stacked),17,5,0.01690053939819336,0.03380107879638672,True

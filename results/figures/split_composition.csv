@@ -1,0 +1,5 @@
+split,patients,images,anaemic_patients,healthy_patients,anaemic_images,healthy_images
+Training,680,8160,344,336,4128,4032
+Validation,120,1440,59,61,708,732
+Test,200,2400,97,103,1164,1236
+Total,1000,12000,500,500,6000,6000

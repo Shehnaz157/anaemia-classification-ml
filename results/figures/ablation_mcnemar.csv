@@ -1,0 +1,2 @@
+comparison,patients,real_only_correct,control_only_correct,exact_p,image_only_auc,control_auc,real_auc,architecture_effect,modality_effect
+feature fusion vs shuffled-clinical control,200,18,10,0.1849333420395851,0.927234511059954,0.94465018516665,0.9566609948954059,0.017,0.012

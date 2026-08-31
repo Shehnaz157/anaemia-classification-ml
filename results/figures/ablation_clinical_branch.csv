@@ -1,0 +1,4 @@
+model,accuracy,sensitivity,specificity,roc_auc,brier,missed_anaemic
+ResNet50 (image only),0.79,0.856,0.728,0.927,0.116,14
+"Fusion, clinical SHUFFLED (control)",0.85,0.825,0.874,0.945,0.096,17
+"Fusion, clinical REAL",0.89,0.948,0.835,0.957,0.082,5

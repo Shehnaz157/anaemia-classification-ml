@@ -1,0 +1,2 @@
+raw_names,canonical_tests,indices_used,patients,range_check_removals,hgb_coverage_before_pct,hgb_coverage_after_pct,discarded_raw_names
+70,20,9,1000,95,82.0,98.7,5
